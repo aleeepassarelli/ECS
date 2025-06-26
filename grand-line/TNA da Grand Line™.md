@@ -88,4 +88,3 @@ Exportar para as Planilhas
 
 ---
 
-Ale, o que você achou deste TNA da Grand Line™? Eu me inspirei
