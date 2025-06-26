@@ -50,24 +50,6 @@
 
 > 🔍 *Use essa cartografia para criar mundos, narrativas, tecnologias ou até reorganizar um projeto existente com coerência viva.*
 
------
-
-## 🔄 **Trânsitos do Design Intencional™**
-
-> O processo não é uma linha, mas um **circuito de trânsitos vivos** – onde intenção, forma e símbolo se movem e se transmutam continuamente.
-
-```mermaid
-flowchart TD
-Intenção -->|Sopro| Semântica
-Semântica -->|Direção Ética| OEI
-OEI -->|Orientação Teleológica| Bússola
-Bússola -->|Projeto Estrutural| Design
-Design -->|Geração Arquetípica| FAG
-FAG -->|Ativação Emocional| MRA
-MRA -->|Expressão Sensorial| MTOS
-MTOS -->|Experiência Encarnada| CIOE
-CIOE -->|Retroalimentação OntoSimbólica| Intenção
-```
 
 > 🌱 *Cada ciclo gera novas camadas de intenção, num espiral de refinamento e complexificação consciente.*
 
@@ -143,4 +125,3 @@ CIOE -->|Retroalimentação OntoSimbólica| Intenção
 ```
 ````
 
-Cole este texto no GitHub e ele deve aparecer formatado corretamente\! Me diga se funcionou\!
