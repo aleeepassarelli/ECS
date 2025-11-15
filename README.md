@@ -380,11 +380,11 @@ n.resolve()
   </sub>
 </p>
 
-# **⭐ Se este framework foi útil, considere dar uma estrela no GitHub!**
+## **⭐ Se este framework foi útil, considere dar uma estrela no GitHub!**
 
 ---
 
-## 📝 **LICENÇA**
+### 📝 **LICENÇA**
 
 Este repositório é distribuído sob **CC-BY 4.0**.
 Componentes artísticos possuem extensão de direitos conforme documentação interna.
