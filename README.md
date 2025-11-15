@@ -117,7 +117,6 @@ A arquitetura opera em um ciclo contínuo:
 ψ vórtices narrativos
 
 </td> </tr> <tr> <td align="center"><strong>🧩 ECS Studio</strong><br><em>(future)</em></td> <td align="left">Ambiente visual para criação e manipulação de universos simbólicos.</td> </tr> <tr> <td align="center"><strong>📊 Metrics Engine</strong></td> <td align="left">Cálculo de CFI, Semantic Coherence, Flux Entropy e Ontological Density.</td> </tr> </table> </div>
----
 
 <div align="left">
 
@@ -125,48 +124,150 @@ A arquitetura opera em um ciclo contínuo:
 ![Métricas](https://img.shields.io/badge/🧠_Métricas_do_ECS™_(Matemática)-0047AB?style=for-the-badge)
 </div>
 
-### **1. CFI — Cognitive Flux Index**
+<div align="center">
+① CFI — Cognitive Flux Index
+CFI
+=
+𝛼
+ 
+𝑆
+𝑐
+  
++
+  
+(
+1
+−
+𝛼
+)
+ 
+𝐸
+𝑟
+CFI=αS
+c
+	​
 
-[
-CFI = \alpha S_c + (1 - \alpha) E_r
-]
++(1−α)E
+r
+	​
 
-onde:
+</div>
 
-* ( S_c ) = coerência semântica
-* ( E_r ) = ressonância emocional
-* ( \alpha = 0.6 )
+Parâmetros
 
----
+𝑆
+𝑐
+S
+c
+	​
 
-### **2. Semantic Coherence**
+ — coerência semântica
 
-[
-S_c = 1 - \frac{\Delta d}{d_{max}}
-]
+𝐸
+𝑟
+E
+r
+	​
 
-Medida inversamente proporcional ao desvio semântico.
+ — ressonância emocional
 
----
+𝛼
+=
+0.6
+α=0.6
 
-### **3. Flux Entropy**
+<div align="center">
+② Semantic Coherence
+𝑆
+𝑐
+=
+1
+−
+Δ
+𝑑
+𝑑
+max
+⁡
+S
+c
+	​
 
-[
-H_f = -\sum p_i \log(p_i)
-]
+=1−
+d
+max
+	​
 
-Entropia nos estados internos durante transições.
+Δd
+	​
 
----
+</div>
 
-### **4. Ontological Density**
+Descrição
+Medida inversamente proporcional ao desvio semântico entre estados.
 
-[
-D_o = \frac{|O|}{|N|}
-]
+<div align="center">
+③ Flux Entropy
+𝐻
+𝑓
+=
+−
+∑
+𝑖
+𝑝
+𝑖
+log
+⁡
+(
+𝑝
+𝑖
+)
+H
+f
+	​
 
-Proporção entre operadores ativos e nós ontológicos.
+=−
+i
+∑
+	​
 
+p
+i
+	​
+
+log(p
+i
+	​
+
+)
+</div>
+
+Descrição
+Entropia dos estados cognitivos durante transições internas.
+
+<div align="center">
+④ Ontological Density
+𝐷
+𝑜
+=
+∣
+𝑂
+∣
+∣
+𝑁
+∣
+D
+o
+	​
+
+=
+∣N∣
+∣O∣
+	​
+
+</div>
+
+Descrição
+Relação entre operadores ontológicos ativos e o número total de nós disponíveis.
 ---
 
 <div align="left">
