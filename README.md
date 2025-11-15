@@ -108,36 +108,15 @@ A arquitetura opera em um ciclo contínuo:
 </div>
 
 
-### **🔹 1. ALEC — Aledev Logical & Emotional Core**
+<div align="center"> <table> <tr> <td align="center"><strong>🧠 ALEC</strong><br><em>Aledev Logical & Emotional Core</em></td> <td align="left">Ontologia unificada que sustenta todo o ECS — base lógica, semântica e afetiva.</td> </tr> <tr> <td align="center"><strong>🔤 ECS DSL</strong><br><em>Domain-Specific Language</em></td> <td align="left">Linguagem simbólica minimalista para expressar significado executável.</td> </tr> <tr> <td align="center"><strong>💠 EFE</strong><br><em>Emotional Flux Engine</em></td> <td align="left">Mensuração e modelagem de estados afetivos integrados à coerência cognitiva.</td> </tr> <tr> <td align="center"><strong>📐 Operadores</strong><br><em>Semantic Operator Library</em></td> <td align="left">
 
-Ontologia unificada que sustenta o ECS.
+⊕ expansão  · 
+⊗ condensação  · 
+∴ causalidade  · 
+≡ coerência  · 
+ψ vórtices narrativos
 
-### **🔹 2. ECS DSL (Domain-Specific Language)**
-
-Linguagem simbólica minimalista para expressar significado executável.
-
-### **🔹 3. Emotional Flux Engine (EFE)**
-
-Mede estados afetivos como parte da coerência cognitiva.
-
-### **🔹 4. Semantic Operator Library**
-
-Operadores fundamentais:
-
-* `⊕` expansão
-* `⊗` condensação
-* `∴` causalidade simbólica
-* `≡` coerência
-* `ψ` vórtices narrativos
-
-### **🔹 5. ECS Studio (future)**
-
-Ambiente visual para criação de universos simbólicos.
-
-### **🔹 6. ECS Metrics Engine**
-
-Onde entram CFI, Coherence, Entropy e Density.
-
+</td> </tr> <tr> <td align="center"><strong>🧩 ECS Studio</strong><br><em>(future)</em></td> <td align="left">Ambiente visual para criação e manipulação de universos simbólicos.</td> </tr> <tr> <td align="center"><strong>📊 Metrics Engine</strong></td> <td align="left">Cálculo de CFI, Semantic Coherence, Flux Entropy e Ontological Density.</td> </tr> </table> </div>
 ---
 
 <div align="left">
