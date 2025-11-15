@@ -191,10 +191,10 @@ Proporção entre operadores ativos e nós ontológicos.
 ---
 
 <div align="center">
-<!-- Universe Map -->
+
+<!-- Métricas -->
 ![Universe Map](https://img.shields.io/badge/🌌_ECS™_Universe_Map-4F94FF?style=for-the-badge)
 </div>
----
 
 *Sua Galáxia de Ferramentas Ontológicas*
 
@@ -222,11 +222,13 @@ graph TD
 
 ---
 
+
 <div align="center">
-<!-- Quick Start -->
+
+<!-- Métricas -->
 ![Quick Start](https://img.shields.io/badge/🚀_Quick_Start-0047AB??style=for-the-badge)
 </div>
----
+
 
 ### **Instalação**
 
@@ -250,9 +252,12 @@ print(state)
 
 
 <div align="center">
-<!-- Exemplos -->
-![Exemplos](https://img.shields.io/badge/🔮_Exemplos_de_Uso-003A8C?style=for-the-badge)
+
+<!-- Métricas -->
+![Quick Start](https://img.shields.io/badge/🔮_Exemplos_de_Uso-003A8C?style=for-the-badge)
 </div>
+
+
 
 ### **Criar um operador**
 
@@ -277,11 +282,10 @@ n.resolve()
 ---
 
 <div align="center">
-<!-- Documentação -->
+
+<!-- Métricas -->
 ![Documentação](https://img.shields.io/badge/📚_Documentação-0047AB?style=for-the-badge)
-
 </div>
-
 
 * Portal ECS
 * Papers e Artefatos Zenodo (com DOI)
