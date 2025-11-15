@@ -32,7 +32,13 @@
 
 ---
 
-## 🎙️ **TÉCNICO-ARTÍSTICO**
+<div align="center">
+
+<!-- Técnico-Artístico -->
+![Técnico-Artístico](https://img.shields.io/badge/🎙️_Técnico–Artístico-0047AB?style=for-the-badge&logoColor=white)
+
+</div>
+
 
 > *O ECS™ é uma arquitetura simbólica para engenharia de significado —
 > onde lógica, estética e ontologia convergem em um motor cognitivo unificado.*
