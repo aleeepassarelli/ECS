@@ -32,7 +32,7 @@
 
 ---
 
-# 🎙️ **MANIFESTO TÉCNICO-ARTÍSTICO**
+## 🎙️ **TÉCNICO-ARTÍSTICO**
 
 > *O ECS™ é uma arquitetura simbólica para engenharia de significado —
 > onde lógica, estética e ontologia convergem em um motor cognitivo unificado.*
@@ -48,7 +48,7 @@ Ele opera como um **motor ontológico fractal**, capaz de:
 
 ---
 
-# 🧩 **POR QUE O ECS™?**
+## 🧩 **POR QUE O ECS™?**
 
 O ECS resolve um problema central da engenharia cognitiva:
 
@@ -65,7 +65,7 @@ Enquanto frameworks convencionais tratam linguagem como dados, o ECS trata lingu
 
 ---
 
-# 🧬 **ARQUITETURA ECS™**
+## 🧬 **ARQUITETURA ECS™**
 
 ```mermaid
 flowchart TD
@@ -86,7 +86,7 @@ A arquitetura opera em um ciclo contínuo:
 
 ---
 
-# 🧩 **COMPONENTES DO ECOSSISTEMA ECS™**
+## 🧩 **COMPONENTES DO ECOSSISTEMA ECS™**
 
 ### **🔹 1. ALEC — Aledev Logical & Emotional Core**
 
@@ -166,7 +166,7 @@ Proporção entre operadores ativos e nós ontológicos.
 
 ---
 
-# 🌌 **ECS™ UNIVERSE MAP**
+## 🌌 **ECS™ UNIVERSE MAP**
 
 *Sua Galáxia de Ferramentas Ontológicas*
 
@@ -194,7 +194,7 @@ graph TD
 
 ---
 
-# 🚀 **QUICK START**
+## 🚀 **QUICK START**
 
 ### **Instalação**
 
@@ -216,7 +216,7 @@ print(state)
 
 ---
 
-# 🔮 **EXEMPLOS DE USO**
+## 🔮 **EXEMPLOS DE USO**
 
 ### **Criar um operador**
 
@@ -240,7 +240,7 @@ n.resolve()
 
 ---
 
-# 📚 **DOCUMENTAÇÃO**
+## 📚 **DOCUMENTAÇÃO**
 
 * Portal ECS
 * Papers e Artefatos Zenodo (com DOI)
@@ -250,7 +250,7 @@ n.resolve()
 
 ---
 
-# 🪞 **ALEDEV RESEARCH SEAL**
+### 🪞 **ALEDEV RESEARCH SEAL**
 
 > *"Onde a ciência encontra a estética do significado."*
 > ECS™ é parte da Aledev Research Initiative.
