@@ -32,7 +32,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 <!-- Técnico-Artístico -->
 ![Técnico-Artístico](https://img.shields.io/badge/🎙️_Técnico–Artístico-0047AB?style=for-the-badge&logoColor=white)
@@ -53,7 +53,7 @@ Ele opera como um **motor ontológico fractal**, capaz de:
 * Materializar narrativas, estruturas e universos
 
 ---
-<div align="center">
+<div align="left">
 
 <!-- Por que o ECS -->
 ![Por que o ECS](https://img.shields.io/badge/🧩_Por_que_o_ECS™-003A8C?style=for-the-badge&logoColor=white)
@@ -76,7 +76,7 @@ Enquanto frameworks convencionais tratam linguagem como dados, o ECS trata lingu
 
 ---
 
-<div align="center">
+<div align="left">
 
 <!-- Arquitetura ECS -->
 ![Arquitetura ECS](https://img.shields.io/badge/🧬_Arquitetura_ECS™-0047AB?style=for-the-badge)
@@ -101,7 +101,7 @@ A arquitetura opera em um ciclo contínuo:
 
 ---
 
-<div align="center">
+<div align="left">
 
 <!-- Componentes -->
 ![Componentes](https://img.shields.io/badge/🧩_Componentes_do_Ecossistema-003A8C?style=for-the-badge)
@@ -140,7 +140,7 @@ Onde entram CFI, Coherence, Entropy e Density.
 
 ---
 
-<div align="center">
+<div align="left">
 
 <!-- Métricas -->
 ![Métricas](https://img.shields.io/badge/🧠_Métricas_do_ECS™_(Matemática)-0047AB?style=for-the-badge)
@@ -190,7 +190,7 @@ Proporção entre operadores ativos e nós ontológicos.
 
 ---
 
-<div align="center">
+<div align="left">
 
 <!-- Métricas -->
 ![Universe Map](https://img.shields.io/badge/🌌_ECS™_Universe_Map-4F94FF?style=for-the-badge)
@@ -223,7 +223,7 @@ graph TD
 ---
 
 
-<div align="center">
+<div align="left">
 
 <!-- Métricas -->
 ![Quick Start](https://img.shields.io/badge/🚀_Quick_Start-0047AB??style=for-the-badge)
@@ -251,7 +251,7 @@ print(state)
 ---
 
 
-<div align="center">
+<div align="left">
 
 <!-- Métricas -->
 ![Quick Start](https://img.shields.io/badge/🔮_Exemplos_de_Uso-003A8C?style=for-the-badge)
@@ -281,7 +281,7 @@ n.resolve()
 
 ---
 
-<div align="center">
+<div align="left">
 
 <!-- Métricas -->
 ![Documentação](https://img.shields.io/badge/📚_Documentação-0047AB?style=for-the-badge)
