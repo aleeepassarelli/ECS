@@ -239,8 +239,28 @@ n.resolve()
 ```
 
 ---
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="36" viewBox="0 0 520 36" role="img" aria-label="📚 DOCUMENTAÇÃO">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0b63c6"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffd54a"/>
+      <stop offset="1" stop-color="#ffc107"/>
+    </linearGradient>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+  <rect rx="6" ry="6" width="520" height="36" fill="url(#g)" filter="url(#s)"/>
+  <rect x="8" y="6" width="44" height="24" rx="4" fill="url(#accent)"/>
+  <g font-family="Inter, Arial, Helvetica, sans-serif" font-size="13" fill="#0b2136">
+    <text x="62" y="22" font-weight="600">📚 DOCUMENTAÇÃO</text>
+  </g>
+</svg>
 
-## 📚 **DOCUMENTAÇÃO**
+---
 
 * Portal ECS
 * Papers e Artefatos Zenodo (com DOI)
