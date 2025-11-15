@@ -53,8 +53,13 @@ Ele opera como um **motor ontológico fractal**, capaz de:
 * Materializar narrativas, estruturas e universos
 
 ---
+<div align="center">
 
-## 🧩 **POR QUE O ECS™?**
+<!-- Por que o ECS -->
+![Por que o ECS](https://img.shields.io/badge/🧩_Por_que_o_ECS™-003A8C?style=for-the-badge&logoColor=white)
+
+</div>
+
 
 O ECS resolve um problema central da engenharia cognitiva:
 
@@ -71,7 +76,11 @@ Enquanto frameworks convencionais tratam linguagem como dados, o ECS trata lingu
 
 ---
 
-## 🧬 **ARQUITETURA ECS™**
+<div align="center">
+
+<!-- Arquitetura ECS -->
+![Arquitetura ECS](https://img.shields.io/badge/🧬_Arquitetura_ECS™-0047AB?style=for-the-badge)
+</div>
 
 ```mermaid
 flowchart TD
@@ -92,7 +101,12 @@ A arquitetura opera em um ciclo contínuo:
 
 ---
 
-## 🧩 **COMPONENTES DO ECOSSISTEMA ECS™**
+<div align="center">
+
+<!-- Componentes -->
+![Componentes](https://img.shields.io/badge/🧩_Componentes_do_Ecossistema-003A8C?style=for-the-badge)
+</div>
+
 
 ### **🔹 1. ALEC — Aledev Logical & Emotional Core**
 
@@ -126,7 +140,11 @@ Onde entram CFI, Coherence, Entropy e Density.
 
 ---
 
-# 🧠 **MÉTRICAS DO ECS™ (MATEMÁTICA)**
+<div align="center">
+
+<!-- Métricas -->
+![Métricas](https://img.shields.io/badge/🧠_Métricas_do_ECS™_(Matemática)-0047AB?style=for-the-badge)
+</div>
 
 ### **1. CFI — Cognitive Flux Index**
 
@@ -172,7 +190,11 @@ Proporção entre operadores ativos e nós ontológicos.
 
 ---
 
-## 🌌 **ECS™ UNIVERSE MAP**
+
+<div align="center">
+<!-- Universe Map -->
+![Universe Map](https://img.shields.io/badge/🌌_ECS™_Universe_Map-4F94FF?style=for-the-badge)
+</div>
 
 *Sua Galáxia de Ferramentas Ontológicas*
 
@@ -200,7 +222,11 @@ graph TD
 
 ---
 
-## 🚀 **QUICK START**
+
+<div align="center">
+<!-- Quick Start -->
+![Quick Start](https://img.shields.io/badge/🚀_Quick_Start-0047AB?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ### **Instalação**
 
@@ -222,7 +248,11 @@ print(state)
 
 ---
 
-## 🔮 **EXEMPLOS DE USO**
+
+<div align="center">
+<!-- Exemplos -->
+![Exemplos](https://img.shields.io/badge/🔮_Exemplos_de_Uso-003A8C?style=for-the-badge)
+</div>
 
 ### **Criar um operador**
 
@@ -245,26 +275,13 @@ n.resolve()
 ```
 
 ---
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="36" viewBox="0 0 520 36" role="img" aria-label="📚 DOCUMENTAÇÃO">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0" stop-color="#0b63c6"/>
-      <stop offset="1" stop-color="#ffffff"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" x2="1">
-      <stop offset="0" stop-color="#ffd54a"/>
-      <stop offset="1" stop-color="#ffc107"/>
-    </linearGradient>
-    <filter id="s" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000" flood-opacity="0.08"/>
-    </filter>
-  </defs>
-  <rect rx="6" ry="6" width="520" height="36" fill="url(#g)" filter="url(#s)"/>
-  <rect x="8" y="6" width="44" height="24" rx="4" fill="url(#accent)"/>
-  <g font-family="Inter, Arial, Helvetica, sans-serif" font-size="13" fill="#0b2136">
-    <text x="62" y="22" font-weight="600">📚 DOCUMENTAÇÃO</text>
-  </g>
-</svg>
+
+<div align="center">
+<!-- Documentação -->
+![Documentação](https://img.shields.io/badge/📚_Documentação-0047AB?style=for-the-badge)
+
+</div>
+
 
 * Portal ECS
 * Papers e Artefatos Zenodo (com DOI)
