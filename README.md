@@ -367,11 +367,7 @@ n.resolve()
 ![Documentação](https://img.shields.io/badge/📚_Documentação-0047AB?style=for-the-badge)
 </div>
 
-* Portal ECS
-* Papers e Artefatos Zenodo (com DOI)
-* ALEC Ontology
-* Exemplos
-* Tutoriais
+<div align="center"> <!-- Portal ECS --> <a href="https://github.com/aleeepassarelli/ECS"> <img src="https://img.shields.io/badge/🌐_Portal_ECS-0A84FF?style=plastic&labelColor=FFFFFF&color=0A84FF" /> </a> <!-- Papers & Artefatos --> <a href="https://zenodo.org/search?page=1&size=20&q=ECS"> <img src="https://img.shields.io/badge/📄_Papers_&_Artefatos_(DOI)-1B98F5?style=plastic&labelColor=FFFFFF&color=1B98F5" /> </a> <!-- ALEC Ontology --> <a href="https://github.com/aleeepassarelli/ECS/tree/main/ALEC"> <img src="https://img.shields.io/badge/🧬_ALEC_Ontology-48B3FF?style=plastic&labelColor=FFFFFF&color=48B3FF" /> </a> <!-- Exemplos --> <a href="https://github.com/aleeepassarelli/ECS/tree/main/examples"> <img src="https://img.shields.io/badge/💡_Exemplos-74CAFF?style=plastic&labelColor=FFFFFF&color=74CAFF" /> </a> <!-- Tutoriais --> <a href="https://github.com/aleeepassarelli/ECS/tree/main/tutorials"> <img src="https://img.shields.io/badge/📘_Tutoriais-A7DDFF?style=plastic&labelColor=FFFFFF&color=A7DDFF" /> </a> </div>
 
 ---
 
