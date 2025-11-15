@@ -6,7 +6,7 @@
 
 <!-- Banner Animado SVG -->
 
-<img src="https://raw.githubusercontent.com/Aledev/ECS/main/assets/banner-ecs-animated.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/aleeepassarelli/ECS/main/assets/banner-ecs-animated.svg" width="100%" />
 
 </div>
 
