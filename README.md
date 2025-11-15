@@ -389,3 +389,9 @@ n.resolve()
 Este repositório é distribuído sob **CC-BY 4.0**.
 Componentes artísticos possuem extensão de direitos conforme documentação interna.
 
+
+<p align="center">
+  <img src="assets/footer_seal.svg" width="360" alt="Aledev Research Seal">
+</p>
+
+
