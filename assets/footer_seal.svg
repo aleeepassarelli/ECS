@@ -1,46 +1,60 @@
-<svg width="420" height="180" viewBox="0 0 420 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="420" height="180" viewBox="0 0 420 180"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     preserveAspectRatio="xMidYMid meet" role="img" aria-label="Aledev Research Seal - Semantic Latent Engineering">
 
-  <!-- Background frame subtle -->
-  <rect x="0" y="0" width="420" height="180" rx="12" fill="transparent" stroke="#0A84FF22" stroke-width="1.2"/>
+  <!-- subtle frame -->
+  <rect x="1" y="1" width="418" height="178" rx="10" fill="none" stroke="#0A84FF22" stroke-width="1.2"/>
 
-  <!-- Rotating Ring -->
-  <g transform="translate(210, 90)">
-    <circle r="55" stroke="#00E5FF" stroke-width="2.2" stroke-dasharray="6 12">
+  <!-- center group -->
+  <g id="seal" transform="translate(210,90)">
+
+    <!-- rotating dashed ring -->
+    <g id="rot_ring">
+      <circle cx="0" cy="0" r="58" fill="none"
+              stroke="#00E5FF" stroke-width="2.2" stroke-linecap="round"
+              stroke-dasharray="8 14" opacity="0.95" />
+      <!-- SMIL animation: rotate the ring around center -->
       <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="0"
-        to="360"
-        dur="6s"
-        repeatCount="indefinite"/>
-    </circle>
+         xlink:href="#rot_ring"
+         attributeName="transform"
+         attributeType="XML"
+         type="rotate"
+         from="0 0 0"
+         to="360 0 0"
+         dur="6s"
+         repeatCount="indefinite"/>
+    </g>
+
+    <!-- inner subtle ring (static) -->
+    <circle cx="0" cy="0" r="42" fill="none" stroke="#69E2FF33" stroke-width="1.0"/>
+
+    <!-- central triangle Δ (Aledev symbol) -->
+    <path d="M0 -20 L18 14 L-18 14 Z"
+          fill="none" stroke="#00D1FF" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.98"/>
+
+    <!-- small decorative nodes along lower arc -->
+    <g transform="translate(0,28) rotate(0)">
+      <circle cx="-34" cy="-10" r="2.2" fill="#00E5FF"/>
+      <circle cx="0" cy="-12" r="2.2" fill="#7BDFFF"/>
+      <circle cx="34" cy="-10" r="2.2" fill="#9EEBFF"/>
+    </g>
+
   </g>
 
-  <!-- Central Symbol (Aledev Δ) -->
-  <g transform="translate(210, 90)">
-    <path d="M0 -22 L19 15 L-19 15 Z"
-          stroke="#00E5FF"
-          stroke-width="2"
-          fill="none"
-          opacity="0.9"/>
-  </g>
-
-  <!-- Text: Aledev Research -->
-  <text x="210" y="42" text-anchor="middle"
-        fill="#CFF9FF"
-        font-family="Segoe UI", sans-serif
-        font-size="16"
-        letter-spacing="2.5">
-     ALEDEV RESEARCH
+  <!-- Title -->
+  <text x="210" y="36" text-anchor="middle"
+        fill="#CFF9FF" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="16" font-weight="600" letter-spacing="2.2">
+    ALEDEV RESEARCH
   </text>
 
-  <!-- Subtitle: Semantic Latent Engineering -->
-  <text x="210" y="150" text-anchor="middle"
-        fill="#7BDFFF"
-        font-family="Segoe UI", sans-serif
-        font-size="12"
-        letter-spacing="2.2">
-     SEMANTIC · LATENT · ENGINEERING
+  <!-- Subtitle -->
+  <text x="210" y="156" text-anchor="middle"
+        fill="#8FE8FF" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="11" letter-spacing="2.0">
+    SEMANTIC · LATENT · ENGINEERING
   </text>
 
 </svg>
