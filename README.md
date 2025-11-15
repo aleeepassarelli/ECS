@@ -37,7 +37,6 @@
 [![Português](https://img.shields.io/badge/Português-0075C8?style=flat-square)](README.md) [![English](https://img.shields.io/badge/English-2EA44F?style=flat-square)](README.en.md) [![简体中文](https://img.shields.io/badge/简体中文-DE2910?style=flat-square)](README.zh.md)
 
 </div>
----
 
 <div align="left">
 
