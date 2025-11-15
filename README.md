@@ -260,8 +260,6 @@ n.resolve()
   </g>
 </svg>
 
----
-
 * Portal ECS
 * Papers e Artefatos Zenodo (com DOI)
 * ALEC Ontology
