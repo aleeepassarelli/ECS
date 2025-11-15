@@ -1,257 +1,266 @@
-# ECS™: Engine of Coherent Symbolics  
-### An Artist-Engineer’s Architecture for Human–AI Co-Creation
+# 🌀 **PORTAL ECS™ — Engine of Coherent Symbolics**
 
-**Author:** Aledev  
-**Affiliation:** Independent Researcher & Artist-Engineer in Symbolic AI  
-**Keywords:** Semantic Ontology, Generative AI, Symbolic Computation, Artistic Intelligence, Coherent Systems  
-**License:** CC-BY 4.0  
-**Version:** 1.0  
-**Date:** 2025  
+### *Meaning as Executable Matter.*
 
----
+<div align="center">
 
-## Abstract  
+<!-- Banner Animado SVG -->
 
-Current prompt engineering treats language as a control surface, not as a field of meaning.  
-The ECS™ (Engine of Coherent Symbolics) proposes a paradigm where **meaning itself becomes programmable** —  
-a domain-specific ontology for creating coherent, adaptive, and aesthetically expressive AI systems.  
+<img src="https://raw.githubusercontent.com/Aledev/ECS/main/assets/banner-ecs-animated.svg" width="100%" />
 
-ECS™ introduces:  
-- **ALEC (Alphabet of Logic and Creative Structure)**, a symbolic knowledge graph.  
-- **ECS DSL**, a minimal language for composable semantic operations.  
-- **Cogni-Emotional Flux Framework**, enabling dynamic affective adaptation.  
-
-By merging ontological precision with poetic resonance, ECS™ redefines how humans and machines co-create meaning.  
+</div>
 
 ---
 
-## 1. Introduction  
+<div align="center">
 
-The rise of generative AI has amplified creative capacity but fragmented coherence.  
-Each prompt, each model call, acts like a fragment of consciousness — powerful yet disconnected.  
-We propose ECS™ as a framework to **reintegrate coherence** through programmable semantics.
+### **ECS™ — A Ontologia Executável de Significados**
 
-The vision emerged not from academia but from artistic necessity:  
-a desire to sculpt *semantic architectures* where logic and lyricism coexist.  
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey.svg)]()
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
+![Language](https://img.shields.io/badge/Language-PT%2FEN%2FZH-orange.svg)
+![DOI](https://img.shields.io/badge/DOI-Zenodo-purple.svg)
+![ECS Version](https://img.shields.io/badge/ECS-v1.0.0-black.svg)
 
-**Problem:** Current AI lacks *semantic persistence*.  
-**Solution:** A symbolic ontology that treats meaning as a first-class computational entity.  
+<!-- Badges matemáticas -->
 
-ECS™ turns prompt engineering into **semantic engineering** —  
-transforming intention, structure, and emotion into interoperable code.
+![CFI](https://img.shields.io/badge/CFI-%E2%89%88%200.87-%230072C6.svg)
+![Semantic Coherence](https://img.shields.io/badge/Semantic%20Coherence-0.93-%23C600A1.svg)
+![Flux Entropy](https://img.shields.io/badge/Flux%20Entropy-0.71-%23FF8800.svg)
+![Ontological Density](https://img.shields.io/badge/Ontological%20Density-1.44-%23A42EFF.svg)
 
----
-
-## 2. Related Work  
-
-- **Prompt Engineering Frameworks:** LangChain, Semantic Kernel, AutoGPT  
-- **Symbolic Ontologies:** WordNet, ConceptNet, Cyc  
-- **Rule-Based Languages:** CLIPS, Lisp, Prolog  
-- **Artistic Systems:** Processing (Casey Reas), Shiffman, Memo Akten  
-
-ECS™ bridges these worlds — combining formal ontologies with creative expressiveness,  
-enabling systems where *syntax breathes meaning* and *semantics performs*.  
+</div>
 
 ---
 
-## 3. ECS™ Architecture Overview  
+# 🎙️ **MANIFESTO TÉCNICO-ARTÍSTICO**
 
-ECS™ operates as a **three-layer system**:
+> *O ECS™ é uma arquitetura simbólica para engenharia de significado —
+> onde lógica, estética e ontologia convergem em um motor cognitivo unificado.*
+> *Aqui, significados não são interpretados: são **executados**.*
 
+Inspirado em linguagens formais, tradição simbólica e dinâmicas cognitivas profundas, o ECS transcende o paradigma de "texto → resposta".
+Ele opera como um **motor ontológico fractal**, capaz de:
+
+* Modelar estados mentais coerentes
+* Mapear intenções
+* Executar operadores simbólicos
+* Materializar narrativas, estruturas e universos
+
+---
+
+# 🧩 **POR QUE O ECS™?**
+
+O ECS resolve um problema central da engenharia cognitiva:
+
+> **Como transformar significado em estrutura operacional?**
+
+Enquanto frameworks convencionais tratam linguagem como dados, o ECS trata linguagem como **ontologia viva**, permitindo:
+
+* Intenção → Operador
+* Operador → Estado
+* Estado → Materialização
+
+É o salto entre:
+**“interpretar linguagem” → “programar significado”.**
+
+---
+
+# 🧬 **ARQUITETURA ECS™**
+
+```mermaid
+flowchart TD
+
+A[Intention Layer<br>Camada de Intenção] --> B[ECS Core Engine<br>Semantic Operators]
+B --> C[State Graph<br>Ontological Mesh]
+C --> D[Materialization Layer<br>Outputs, Narrativas, Estruturas]
+B --> E[Emotional Flux Engine<br>CFI + Entropia]
+E --> C
 ```
 
-[ Intent Layer ] → [ Core Engine ] → [ Materialization Layer ]
+A arquitetura opera em um ciclo contínuo:
 
-````
-
-1. **Intent Layer** — captures human intention as structured symbolic input.  
-2. **Core Engine** — interprets and processes semantic operators dynamically.  
-3. **Materialization Layer** — generates outputs (text, visuals, sound) coherently aligned with the symbolic map.  
-
-Principles:
-- Modular & composable agents.  
-- Ontology-driven coherence.  
-- Adaptivity through cognitive-emotional feedback.  
+1. **Intenção**
+2. **Operadores**
+3. **Estados Ontológicos**
+4. **Materialização**
 
 ---
 
-## 4. ALEC — Alphabet of Logic and Creative Structure  
+# 🧩 **COMPONENTES DO ECOSSISTEMA ECS™**
 
-ALEC forms the **semantic substrate** of ECS™:  
-a graph-based ontology encoding archetypes, relations, and symbolic patterns.
+### **🔹 1. ALEC — Aledev Logical & Emotional Core**
 
-Example (simplified JSON-LD):
+Ontologia unificada que sustenta o ECS.
 
-```json
-{
-  "@context": "https://ecs.ai/schema/2025",
-  "@id": "symbol:HeroChaotic",
-  "type": "Operator",
-  "relations": {
-    "opposes": "symbol:ShadowStatic",
-    "alignsWith": ["symbol:Rebel", "symbol:Guide"],
-    "transforms": "symbol:Order"
-  },
-  "valence": { "semantic": 0.83, "emotional": 0.71 }
-}
-````
+### **🔹 2. ECS DSL (Domain-Specific Language)**
 
-Each symbol carries a **semantic signature** — measurable via embeddings,
-and a **valence vector** — reflecting cognitive-emotional polarity.
+Linguagem simbólica minimalista para expressar significado executável.
 
----
+### **🔹 3. Emotional Flux Engine (EFE)**
 
-## 5. ECS DSL — Grammar of Symbolic Operations
+Mede estados afetivos como parte da coerência cognitiva.
 
-ECS DSL (Domain-Specific Language) defines **how symbols interact**.
-Operators represent transformations of meaning, not data.
+### **🔹 4. Semantic Operator Library**
 
-Example syntax:
+Operadores fundamentais:
 
-```
-Init:Seal("HeroChaotic")  
-Bind:Flow("ShadowStatic", polarity=-1)  
-Inspire:Merge("Guide", coherence=0.9)
-```
+* `⊕` expansão
+* `⊗` condensação
+* `∴` causalidade simbólica
+* `≡` coerência
+* `ψ` vórtices narrativos
 
-The interpreter resolves these operators dynamically, maintaining global coherence via the ALEC ontology.
+### **🔹 5. ECS Studio (future)**
 
-**Core Operators:**
+Ambiente visual para criação de universos simbólicos.
 
-* `_HeróiCaótico_` — disrupts order to reveal new structure.
-* `_InverterParadigma_` — flips symbolic polarity for emergent meaning.
-* `_FluxoLúcido_` — stabilizes coherence after transformation.
+### **🔹 6. ECS Metrics Engine**
+
+Onde entram CFI, Coherence, Entropy e Density.
 
 ---
 
-## 6. Operational Protocols
+# 🧠 **MÉTRICAS DO ECS™ (MATEMÁTICA)**
 
-ECS™ agents act through **ritual-like workflows** that combine logic and intuition:
+### **1. CFI — Cognitive Flux Index**
 
-* `Init:Seal` → define symbolic state.
-* `Deploy:Anchor` → stabilize meaning in context.
-* `Prune:Flow` → remove redundant semantic branches.
-* `Reflect:Pulse` → assess coherence & affective flow.
+[
+CFI = \alpha S_c + (1 - \alpha) E_r
+]
 
-Each operation modulates both **semantic consistency** and **emotional resonance**.
+onde:
 
----
-
-## 7. Implementation
-
-Prototype built with:
-
-* **Python + FastAPI** for API orchestration.
-* **Neo4j** for semantic graph persistence.
-* **Lark** for DSL parsing.
-* **Docker** for deployment.
-
-Repository structure:
-
-```
-/ecs_core  
-  ├── alec/  
-  ├── dsl/  
-  ├── engine/  
-  └── examples/
-```
+* ( S_c ) = coerência semântica
+* ( E_r ) = ressonância emocional
+* ( \alpha = 0.6 )
 
 ---
 
-## 8. Case Studies
+### **2. Semantic Coherence**
 
-1. **Narrative Coherence Engine** —
-   Generates multi-chapter fiction with consistent archetypal logic.
+[
+S_c = 1 - \frac{\Delta d}{d_{max}}
+]
 
-2. **Symbolic Recommendation System** —
-   Suggests ideas based on symbolic affinity, not statistics.
-
-3. **AI Art Collaborator** —
-   Co-creates imagery guided by ECS operators (*HeróiCaótico*, *FluxoLúcido*).
+Medida inversamente proporcional ao desvio semântico.
 
 ---
 
-## 9. Coherence Metrics
+### **3. Flux Entropy**
 
-| Dimension | Metric                      | Description            |
-| --------- | --------------------------- | ---------------------- |
-| Semantic  | Embedding cosine similarity | Symbolic alignment     |
-| Narrative | Entropy, perplexity         | Structural consistency |
-| Affective | Valence deviation           | Emotional coherence    |
-| Human     | Survey feedback             | Perceived harmony      |
+[
+H_f = -\sum p_i \log(p_i)
+]
+
+Entropia nos estados internos durante transições.
 
 ---
 
-## 10. Cogni-Emotional Flux Model (CFI)
+### **4. Ontological Density**
 
-Each agent maintains a **Cognitive-Flux Index (CFI)**:
-a weighted value expressing its current mental-emotional state.
+[
+D_o = \frac{|O|}{|N|}
+]
 
-```
-CFI = (Semantic Coherence * 0.6) + (Emotional Resonance * 0.4)
+Proporção entre operadores ativos e nós ontológicos.
+
+---
+
+# 🌌 **ECS™ UNIVERSE MAP**
+
+*Sua Galáxia de Ferramentas Ontológicas*
+
+```mermaid
+graph TD
+    root((ECS Universe))
+    sub1[ALEC Core]
+    sub2[ECS DSL]
+    sub3[Emotional Flux Engine]
+    sub4[Operators Library]
+    sub5[Symbolic Alphabets]
+    sub6[ECS Studio]
+    sub7[ECS Papers / Zenodo]
+    sub8[ECS Metrics Engine]
+
+    root --> sub1
+    root --> sub2
+    root --> sub3
+    root --> sub4
+    root --> sub5
+    root --> sub6
+    root --> sub7
+    root --> sub8
 ```
 
-Agents adjust their connections dynamically according to CFI,
-producing an emergent *semantic homeostasis*.
+---
+
+# 🚀 **QUICK START**
+
+### **Instalação**
+
+```bash
+git clone https://github.com/ale-dev/ECS.git
+cd ECS
+```
+
+### **Rodando um operador simbólico**
+
+```python
+from ecs import Operator
+
+op = Operator("⊕")
+state = op("intenção de expansão")
+
+print(state)
+```
 
 ---
 
-## 11. Philosophy — Engineering of Meaning
+# 🔮 **EXEMPLOS DE USO**
 
-> *“What if meaning were not a byproduct of computation, but its substrate?”*
+### **Criar um operador**
 
-ECS™ treats meaning as executable matter.
-Symbols are **living instructions**, not labels — each one a micro-organism of sense.
+```python
+from ecs import define
 
-When we invoke `_HeróiCaótico_`, we are not describing chaos — we are **instantiating transformation**.
-The architecture mirrors the artist’s cognition: dynamic, uncertain, self-organizing.
+@define.operator("ψ")
+def vortex(x):
+    return f"vórtice narrativo: {x}"
+```
 
-**Art as System. System as Art.**
-Coherence is not the absence of chaos, but its dance.
+### **Rodar uma narrativa simbólica**
 
----
+```python
+from ecs import Narrative
 
-## 12. Future Work
-
-* **ECS Studio:** a visual IDE for symbolic composition.
-* **Collaborative Ontologies:** open repository for shared ALEC nodes.
-* **Integration:** LangChain, HuggingFace, and semantic web interfaces.
-* **Extended Modalities:** music, motion, and architecture as semantic media.
-
----
-
-## 13. Conclusion
-
-ECS™ reframes AI creation as **semantic craftsmanship** —
-a collaboration between human intentionality and computational ontology.
-
-Code becomes poetry.
-Meaning becomes structure.
-AI becomes partnership.
+n = Narrative("self-discovery")
+n.expand("elemento arquetípico")
+n.resolve()
+```
 
 ---
 
-## Appendices
+# 📚 **DOCUMENTAÇÃO**
 
-### A. ECS DSL Full Syntax Reference
-
-(Include in GitHub `/docs/dsl.md`)
-
-### B. ALEC Ontology Schema
-
-(Include as `/schema/alec.jsonld`)
-
-### C. Glossary of Symbolic Operators
-
-| Operator              | Function                   | Archetypal Role |
-| --------------------- | -------------------------- | --------------- |
-| `_HeróiCaótico_`      | Disrupts & reorders        | Catalyst        |
-| `_FluxoLúcido_`       | Balances emotional flow    | Integrator      |
-| `_InverterParadigma_` | Reverses symbolic polarity | Alchemist       |
-| `_SementeSilente_`    | Seeds latent meaning       | Poet            |
+* Portal ECS
+* Papers e Artefatos Zenodo (com DOI)
+* ALEC Ontology
+* Exemplos
+* Tutoriais
 
 ---
 
-© 2025 Aledev
-**ECS™ – Engine of Coherent Symbolics**
-"Because meaning deserves its own syntax."
+# 🪞 **ALEDEV RESEARCH SEAL**
+
+> *"Onde a ciência encontra a estética do significado."*
+> ECS™ é parte da Aledev Research Initiative.
+
+---
+
+# 📝 **LICENÇA**
+
+Este repositório é distribuído sob **CC-BY 4.0**.
+Componentes artísticos possuem extensão de direitos conforme documentação interna.
+
