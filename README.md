@@ -1,5 +1,3 @@
-# 🌀 **PORTAL ECS™ — Engine of Coherent Symbolics**
-
 ### *Meaning as Executable Matter.*
 
 <div align="center">
