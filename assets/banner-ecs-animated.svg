@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1200" height="260" viewBox="0 0 1200 260" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="gBlueWhite" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A6ED1"/>
+      <stop offset="60%" stop-color="#5FB3FF"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+
+    <path id="curve" d="M40,160 C200,40 400,40 560,140 C720,240 920,240 1160,120" fill="none"/>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#gBlueWhite)"/>
+
+  <!-- Main continuous curve (Niemeyer-like) -->
+  <use xlink:href="#curve" stroke="#0b2b3a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.12"/>
+  <use xlink:href="#curve" stroke="url(#gBlueWhite)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.99"/>
+
+  <!-- Moving operators (subtle yellow markers) -->
+  <g id="operators" font-family="Inter, Roboto, Helvetica, Arial, sans-serif" font-weight="700" font-size="22" fill="#1b2b3f">
+    <text id="op1" x="0" y="0" fill="#ffd54f">⊕</text>
+    <text id="op2" x="0" y="0" fill="#ffd54f">⊗</text>
+    <text id="op3" x="0" y="0" fill="#ffd54f">∮</text>
+    <text id="op4" x="0" y="0" fill="#ffd54f">∆</text>
+  </g>
+
+  <g>
+    <text x="48" y="72" font-family="Inter, Roboto, Arial" font-size="36" fill="#0b2b3a" font-weight="700">ECS™ — Engine of Coherent Symbolics</text>
+    <text x="48" y="106" font-family="Inter, Roboto, Arial" font-size="14" fill="#243b4a">Aesthetic · Semantic · Minimal</text>
+  </g>
+
+  <!-- Animated small elements following path using animateMotion -->
+  <g font-size="18" font-weight="700" fill="#0b2b3a" opacity="0.95">
+    <text id="m1">⊕
+      <animateMotion dur="12s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#curve"/>
+      </animateMotion>
+    </text>
+    <text id="m2">⊗
+      <animateMotion dur="14s" begin="2s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#curve"/>
+      </animateMotion>
+    </text>
+    <text id="m3">∮
+      <animateMotion dur="16s" begin="4s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#curve"/>
+      </animateMotion>
+    </text>
+    <text id="m4">∆
+      <animateMotion dur="18s" begin="6s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#curve"/>
+      </animateMotion>
+    </text>
+  </g>
+
+  <!-- subtle flowing gradient shimmer along the stroke -->
+  <g opacity="0.18">
+    <use xlink:href="#curve" stroke="white" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <animate attributeName="stroke-dashoffset" from="0" to="-1200" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.06;0.18;0.06" dur="8s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- Footer minimal operators line -->
+  <g transform="translate(48,180)" opacity="0.9" font-size="12" font-family="Inter, Roboto, Arial" fill="#0b2b3a">
+    <text>⊕ semantic  ⊗ structural  ∮ synthesis  ∆ iteration</text>
+  </g>
+
+</svg>
