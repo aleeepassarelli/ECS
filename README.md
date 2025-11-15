@@ -190,11 +190,11 @@ Proporção entre operadores ativos e nós ontológicos.
 
 ---
 
-
 <div align="center">
 <!-- Universe Map -->
 ![Universe Map](https://img.shields.io/badge/🌌_ECS™_Universe_Map-4F94FF?style=for-the-badge)
 </div>
+---
 
 *Sua Galáxia de Ferramentas Ontológicas*
 
@@ -222,11 +222,11 @@ graph TD
 
 ---
 
-
 <div align="center">
 <!-- Quick Start -->
-![Quick Start](https://img.shields.io/badge/🚀_Quick_Start-0047AB?style=for-the-badge&logo=github&logoColor=white)
+![Quick Start](https://img.shields.io/badge/🚀_Quick_Start-0047AB??style=for-the-badge)
 </div>
+---
 
 ### **Instalação**
 
